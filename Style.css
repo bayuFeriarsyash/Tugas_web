@@ -7,7 +7,7 @@
 }
 
 header {
-    background-color: rgb(73, 158, 218);
+    background-color: rgb(139, 174, 206);
     padding: 15px;
     justify-content: space-between;
     display: flex;
@@ -66,4 +66,5 @@ header nav ul li a:hover{
     
     
     } 
+
  
